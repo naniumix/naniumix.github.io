@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://naniumix.github.io/sitemap.html.gz
+Sitemap: https://naniumix.github.io/app/sitemap.html.gz
+Sitemap: https://naniumix.github.io/assets/sitemap.html.gz
+Sitemap: https://naniumix.github.io/css/sitemap.html.gz
+Sitemap: https://naniumix.github.io/includes/sitemap.html.gz
+Sitemap: https://naniumix.github.io/item/sitemap.html.gz
+Sitemap: https://naniumix.github.io/src/sitemap.html.gz
